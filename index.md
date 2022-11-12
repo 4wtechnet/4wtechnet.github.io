@@ -4,16 +4,16 @@ layout: default
 
 Have a technology problem? Not sure how to proceed?
 
-*   Kafka
-*   Kubernetes
-*   AWS
-*   Azure
-*   GCP
-*   Observability
-*   Java
-*   Python
-*   Go
 
-Technical consulting services.  Midwest Rates.  No pushy sales.  Initial consultations are free.
+| Cloud     | Platforms     | App Dev |
+|:----------|:--------------|:--------|
+| AWS       | Kafka         | Java    |
+| Azure     | Kubernetes    | Python  |
+| GCP       | Observability | Go      |
+| Heroku    | CI/CD         |         |
+| Fly.io    | Search        |         |
 
-Drop us an [email](mailto:engineering@4wtech.net), and speak to an engineer about your project today.
+
+Premium consulting services.  Midwest Rates.  No pushy sales.  Initial consultations are free.
+
+Drop us an [email](mailto:engineering@4wtech.net), and speak to an engineer today.
